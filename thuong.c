@@ -7,7 +7,7 @@ int main() {
 
     if(b != 0) {
         double thuong = a / b;
-        printf("Thuong cua %.2lf va %lf la: %lf\n", a, b, thuong);
+        printf("Thuong cua %lf va %lf la: %lf\n", a, b, thuong);
     } else {
         printf("Loi: Khong the chia cho 0!\n");
     }
