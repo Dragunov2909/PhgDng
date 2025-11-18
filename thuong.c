@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <stdio.h>
 
 int main() {
     double a, b;
